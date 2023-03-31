@@ -5,9 +5,9 @@ Fullstack Software Engineer
 ---------------------------
 
 * 🌍  I'm based in New York
-* 🖥️  See my portfolio at [www.abekucobbina.dev](http://www.abekucobbina.dev)
+<!-- * 🖥️  See my portfolio at [www.abekucobbina.dev](http://www.abekucobbina.dev) -->
 * ✉️  You can contact me at [acobbina717@gmail.com](mailto:acobbina717@gmail.com)
-* 🚀  I'm currently working on [iChatApp](http://github.com/acobbina717/iChat-App)
+<!-- * 🚀  I'm currently working on [iChatApp](http://github.com/acobbina717/iChat-App) -->
 
 ### Skills
 
