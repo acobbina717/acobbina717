@@ -1,14 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abeku Cobbina but you can call me Forgi(4G)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =====================================================================================================================================
 
 Fullstack Software Engineer
 ---------------------------
 
-* 🌍  I'm based in New York
+* 🌍  
 <!-- * 🖥️  See my portfolio at [www.abekucobbina.dev](http://www.abekucobbina.dev) -->
-* ✉️  You can contact me at [acobbina717@gmail.com](mailto:acobbina717@gmail.com)
-<!-- * 🚀  I'm currently working on [iChatApp](http://github.com/acobbina717/iChat-App) -->
-
 ### Skills
 
 
